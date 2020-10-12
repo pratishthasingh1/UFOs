@@ -3,6 +3,8 @@ A data journalist reports her hometown is famous for UFO sightings. She needs to
 
 ## Results: 
 In the file the Dana received, there were many sightings. If Dana (or any user who has access to the webpage) wanted to see a specific sighting, they can use the filter that is on the webpage to find the information on it quicker. For instance, someone can pick the city and state and multiple UFO sightings may be returned. In order to narrow it down, they can input the date or shape to narrow it down even further. 
+
+
 ![result](https://github.com/pratishthasingh1/UFOs/blob/main/static/images/options.png?raw=true)
 
 ## Summary: 
