@@ -1,4 +1,4 @@
-## Overview 
+## Overview:
 A data journalist reports her hometown is famous for UFO sightings. She needs to put together a website to display the sightings that occured in January 2010. A data analyst was put to work by first making an webpage using JavaScript and HTML, and then inputing the datafile she received onto a table, which users can then make queries on, if desired. They can look up cities, state, country, shape, or date to search for sightings. 
 
 ## Results: 
